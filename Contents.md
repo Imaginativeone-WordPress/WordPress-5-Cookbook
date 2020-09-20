@@ -13,13 +13,16 @@
     - [ ] Setting Up WordPress and Customizing Settings
 
 ## 01 Setting Up WordPress and Customizing Settings
+
   - ### Details
+  
     - [ ] Technical Requirements
     - [ ] Managing media files with the Media Library
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
       - [ ] There's more...
+
     - [ ] Setting up the discussion process
       - [ ] Getting ready
       - [ ] How to do it...
