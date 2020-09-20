@@ -174,7 +174,9 @@
       - [ ] How to do it...
       - [ ] How it works...
       - [ ] There's more...
-    - [ ] Publishing Site Content with the Gutenberg Editor
+
+## 04 Publishing Site Content with the Gutenberg Editor
+  - Details
     - [ ] Adding and removing Gutenberg blocks
       - [ ] Getting ready
       - [ ] How to do it...
@@ -223,7 +225,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Managing Users and Permissions
+
+## Managing Users and Permissions
+  - Details
     - [ ] Technical requirements
     - [ ] Enabling new user registrations
       - [ ] Getting ready
