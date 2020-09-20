@@ -13,7 +13,7 @@
     - [ ] Setting Up WordPress and Customizing Settings
 
 ## 01 Setting Up WordPress and Customizing Settings
-  - Details
+  - ### Details
     - [ ] Technical Requirements
     - [ ] Managing media files with the Media Library
       - [ ] Getting ready
@@ -226,7 +226,7 @@
       - [ ] How to do it...
       - [ ] How it works...
 
-## Managing Users and Permissions
+## 05 Managing Users and Permissions
   - Details
     - [ ] Technical requirements
     - [ ] Enabling new user registrations
