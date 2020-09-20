@@ -289,7 +289,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Setting up a Blogging and Editorial Workflow
+      
+## 06 Setting up a Blogging and Editorial Workflow
+  - Details
     - [ ] Technical requirements
     - [ ] Publishing and scheduling blog posts
       - [ ] Getting ready
@@ -331,7 +333,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] WordPress as an Application Framework
+
+## 07 WordPress as an Application Framework
+  - Details
     - [ ] Technical requirements
     - [ ] Managing advanced data with custom post types
       - [ ] Getting ready
@@ -376,7 +380,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Improving Usability and Interactivity
+
+## 08 Improving Usability and Interactivity
+  - Details
     - [ ] Technical requirements
     - [ ] Creating a mobile-friendly site
     - [ ] Getting started
