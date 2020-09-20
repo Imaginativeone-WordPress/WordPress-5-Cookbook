@@ -1,3 +1,5 @@
+# Contents
+
 - [ ] Table of Contents
   - [ ] Beginnings
     - [ ] Preface
@@ -9,7 +11,9 @@
     - [ ] Get in touch
     - [ ] Reviews
     - [ ] Setting Up WordPress and Customizing Settings
-    - [ ] Technical requirements
+
+## Technical requirements
+
     - [ ] Content
     - [ ] Managing media files with the Media Library
       - [ ] Getting ready
