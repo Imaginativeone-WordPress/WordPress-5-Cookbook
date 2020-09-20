@@ -14,9 +14,11 @@
 
 ## 01 Setting Up WordPress and Customizing Settings
 
-    - [ ] Technical Requirements
-    - [ ] Managing media files with the Media Library
-      - [ ] Getting ready
+### Technical Requirements
+
+#### Managing media files with the Media Library
+
+##### Getting ready
       - [ ] How to do it...
       - [ ] How it works...
       - [ ] There's more...
@@ -59,7 +61,7 @@
       - [ ] How it works...
       - [ ] There's more...
 
-## Customizing Theme Design and Layout
+## 02 Customizing Theme Design and Layout
 
     - [ ] Technical requirements
     - [ ] Using the theme customizer
