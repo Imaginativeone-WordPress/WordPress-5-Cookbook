@@ -13,9 +13,7 @@
     - [ ] Setting Up WordPress and Customizing Settings
 
 ## 01 Setting Up WordPress and Customizing Settings
-
-  - ### Details
-  
+  - Details
     - [ ] Technical Requirements
     - [ ] Managing media files with the Media Library
       - [ ] Getting ready
@@ -435,7 +433,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Building E-Commerce Sites with WooComerce
+
+## 09 Building E-Commerce Sites with WooComerce
+  - Details
     - [ ] Technical requirements
     - [ ] Setting up an e-commerce site with WooCommerce
       - [ ] Getting ready
@@ -485,7 +485,9 @@
       - [ ] How it works...
     - [ ] Adding custom content after the Add to Cart button
     - [ ] Adding custom content between existing items
-    - [ ] Troubleshooting WordPress
+    
+## 10 Troubleshooting WordPress
+  - Details
     - [ ] Technical requirements&#xA0;
     - [ ] Configuring error logs and displaying errors
       - [ ] Getting ready
