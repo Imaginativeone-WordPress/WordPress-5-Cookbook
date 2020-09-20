@@ -434,7 +434,7 @@
       - [ ] How to do it...
       - [ ] How it works...
 
-## 09 Building E-Commerce Sites with WooComerce
+## 09 Building E-Commerce Sites with WooCommerce
   - Details
     - [ ] Technical requirements
     - [ ] Setting up an e-commerce site with WooCommerce
@@ -531,7 +531,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Handling Performance and Maintenance
+
+## 11 Handling Performance and Maintenance
+  - Details
     - [ ] Technical requirements
     - [ ] Limiting post revisions
       - [ ] Getting ready
@@ -579,7 +581,9 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Improving Site Security
+      
+## 12 Improving Site Security
+  - Details
     - [ ] Technical requirements
     - [ ] Upgrading the WordPress version
       - [ ] Getting ready
@@ -633,7 +637,9 @@
       - [ ] How to do it...
       - [ ] How it works...
       - [ ] There's more...
-    - [ ] Promoting and Monetizing the Site
+
+## 13 Promoting and Monetizing the Site
+  - Details
     - [ ] Technical requirements
     - [ ] Enabling visibility for search engines
       - [ ] Getting ready
@@ -676,7 +682,8 @@
       - [ ] Getting ready
       - [ ] How to do it...
       - [ ] How it works...
-    - [ ] Appendix
+## Appendix
+  - Details
       - [ ] Configuring and setting up WordPress
       - [ ] Understanding the WordPress database
       - [ ] Working with the WordPress database
