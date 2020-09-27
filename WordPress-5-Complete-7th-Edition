@@ -1,0 +1,371 @@
+- [ ] WordPress 5 Complete - Seventh Edition
+   - [ ] Table of Contents
+     - [ ] Begin
+       - [ ] Title Page
+       - [ ] Copyright and Credits
+       - [ ] WordPress 5 Complete Seventh Edition
+       - [ ] Dedication
+       - [ ] About Packt
+       - [ ] Why subscribe?
+       - [ ] Packt.com
+       - [ ] Contributors
+       - [ ] About the author
+       - [ ] About the reviewers
+       - [ ] Packt is searching for authors like you
+       - [ ] Preface
+       - [ ] Who this book is for
+       - [ ] What this book covers
+       - [ ] To get the most out of this book
+       - [ ] Download the example code files
+       - [ ] Download the color images
+       - [ ] Conventions used
+       - [ ] Get in touch
+       - [ ] Reviews
+   - [ ] Section 1: WordPress
+     - [ ] Introducing WordPress
+       - [ ] Getting into WordPress
+       - [ ] What WordPress is good for
+       - [ ] Starting the journey &#x2013; what is a blog?
+       - [ ] Understanding the common terms
+       - [ ] Post
+       - [ ] Categories and tags
+       - [ ] Comments
+       - [ ] Themes
+       - [ ] Plugins
+       - [ ] Widgets
+       - [ ] Menus
+       - [ ] Page
+       - [ ] Home page
+       - [ ] Users
+       - [ ] Why choose WordPress?
+       - [ ] Who should use WordPress?
+       - [ ] Getting to know the WordPress family
+       - [ ] Digging into WordPress &#x2013; the features
+       - [ ] Learning more
+       - [ ] Learning more with online WordPress resources
+       - [ ] Staying updated with WordPress news
+       - [ ] Understanding the Codex
+       - [ ] Getting support from other users
+       - [ ] Using theme and plugin directories
+     - [ ] Summary
+     - [ ] Getting Started with WordPress
+       - [ ] Building your WordPress website &#x2013; start here
+       - [ ] The two worlds of WordPress &#x2013; the difference between WordPress.com and WordPress.org
+       - [ ] Pros and cons
+       - [ ] Which one to use
+       - [ ] Getting and installing WordPress
+       - [ ] Installing WordPress through a web host
+       - [ ] How to choose a web host for WordPress
+       - [ ] Getting through the installation process
+       - [ ] Installing WordPress manually
+       - [ ] Preparing the environment
+       - [ ] Installing WordPress locally
+       - [ ] Downloading WordPress&#xA0;
+       - [ ] Uploading the files
+       - [ ] Finalizing WordPress's on-screen setup
+       - [ ] Learning more
+       - [ ] Installing WordPress through an auto-installer script
+       - [ ] The wp-admin panel
+       - [ ] Changing general blog information
+       - [ ] Retrieving a lost password
+       - [ ] Getting a Gravatar
+     - [ ] Summary
+     - [ ] Creating Blog Content
+       - [ ] WordPress admin conventions
+       - [ ] Lists of items
+       - [ ] Posting on your blog
+       - [ ] Adding a simple post
+       - [ ] Working in the block-based content editor
+       - [ ] Understanding the editor interface
+       - [ ] Creating your first blog post
+       - [ ] Aligning blocks and building a post layout
+       - [ ] Common post options
+       - [ ] Categories and tags
+       - [ ] Images in your posts
+       - [ ] Adding an image to a post
+       - [ ] Designating a featured image
+       - [ ] Controlling default image sizes
+       - [ ] Editing an uploaded image
+       - [ ] Videos and other media in your posts
+       - [ ] Adding videos to blog posts
+       - [ ] Adding audio to blog posts
+       - [ ] Limited editing possibilities
+       - [ ] Using the block-based editor versus the code editor
+       - [ ] Lead and body
+       - [ ] Drafts, pending articles, and timestamps
+       - [ ] Drafts
+       - [ ] Pending articles
+       - [ ] Timestamps
+       - [ ] Advanced post options
+       - [ ] Excerpt
+       - [ ] Discussion
+       - [ ] Working with post revisions
+       - [ ] Changing the author of the post
+       - [ ] Protecting content
+       - [ ] Pretty post permalink
+       - [ ] Discussion on your blog &#x2013; comments
+       - [ ] Adding a comment
+       - [ ] Discussion settings
+       - [ ] Submission, notification, and moderation settings
+       - [ ] When to moderate or blacklist a comment
+       - [ ] Avatar display settings
+       - [ ] Moderating comments
+       - [ ] Adding and managing categories
+     - [ ] Summary
+     - [ ] Pages, Media, and Importing/Exporting Content
+       - [ ] Pages
+       - [ ] Adding a page
+       - [ ] Parent
+       - [ ] Order
+       - [ ] Managing pages
+       - [ ] Setting up a home page
+       - [ ] Creating a placeholder home page
+       - [ ] Enabling the custom home page
+       - [ ] Customizing your home page
+       - [ ] Media library
+       - [ ] Creating an image gallery
+       - [ ] Choosing a post or page
+       - [ ] Adding images to Gallery
+       - [ ] Importing/exporting content
+       - [ ] Importing content
+       - [ ] Exporting content
+     - [ ] Summary
+   - [ ] Section 2: Customizing WordPress
+     - [ ] Plugins - What They Are and Why You Need Them
+       - [ ] Breaking down plugins&#xA0;&#x2013; what are they?
+       - [ ] Why use plugins?
+       - [ ] Where to get plugins?
+       - [ ] Finding new plugins
+       - [ ] Installing a plugin &#x2013; how to go about this
+       - [ ] Auto-installation
+       - [ ] Manual plugin installation
+       - [ ] What to do after plugin installation
+       - [ ] The must-have pack of plugins
+       - [ ] Backing up
+       - [ ] Enabling Google Analytics
+       - [ ] Caching
+       - [ ] Search engine optimization
+       - [ ] Social media integration
+       - [ ] Jetpack
+       - [ ] Comment spam
+       - [ ] Working with Akismet
+     - [ ] Summary
+     - [ ] Securing your WordPress Website
+       - [ ] The principles of WordPress security
+       - [ ] The best practices for WordPress security
+       - [ ] Using strong passwords
+       - [ ] Keeping your WordPress updated
+       - [ ] Keeping your theme and plugins updated
+       - [ ] Avoid installing unneeded plugins
+       - [ ] Installing an SSL
+       - [ ] Security plugins and which ones to get
+       - [ ] SSL plugin
+       - [ ] General security plugin
+       - [ ] Other plugins to consider
+       - [ ] Setting up secure user accounts
+       - [ ] User roles and abilities
+       - [ ] Administrator
+       - [ ] Editor
+       - [ ] Author
+       - [ ] Contributor
+       - [ ] Subscriber
+       - [ ] Managing users
+       - [ ] Enabling users to self-register
+       - [ ] User management plugins
+     - [ ] Summary
+       - [ ] Choosing and Installing Themes
+       - [ ] Finding themes
+       - [ ] WordPress Theme Directory
+       - [ ] Main types of themes
+       - [ ] Finding more themes
+       - [ ] The factors to consider when choosing a theme
+       - [ ] The structure of a theme
+       - [ ] Factors to consider when choosing a theme
+       - [ ] The purpose of the theme
+       - [ ] Theme licensing
+       - [ ] Up-to-date themes only
+       - [ ] Themes that are customizable
+       - [ ] Themes with a responsive structure
+       - [ ] Support, reviews, and documentation
+       - [ ] Installing and changing themes
+       - [ ] Adding a theme from within wp-admin
+       - [ ] Downloading, extracting, and uploading
+     - [ ] Summary
+     - [ ] Customizing your Website Appearance/Design
+       - [ ] Menus
+       - [ ] Adding a menu
+       - [ ] Displaying a menu
+       - [ ] Widgets
+       - [ ] WordPress Customizer
+       - [ ] Site identity
+       - [ ] Colors
+       - [ ] Header Media
+       - [ ] Background
+       - [ ] Widgets
+       - [ ] Homepage settings or Static Front Page
+       - [ ] Additional CSS
+       - [ ] Scheduling your design changes
+       - [ ] Customizer previews
+       - [ ] Optimizing for mobile and working with AMP
+       - [ ] How to enable AMP in WordPress
+     - [ ] Summary
+     - [ ] Developing your Own Theme
+       - [ ] Setting up your design
+       - [ ] Designing your theme to be WordPress-friendly
+       - [ ] Three paths to theme development
+       - [ ] Building a theme from the ground up
+       - [ ] Building a theme with a framework
+       - [ ] Building a theme with a starter theme
+       - [ ] Converting your design into code
+       - [ ] Examining the HTML structure
+       - [ ] Examining the CSS
+       - [ ] Converting your build into a theme
+       - [ ] Creating the theme directory
+       - [ ] Naming your directory and creating backup copies of your build files
+       - [ ] Preparing the essential files
+       - [ ] Adding a screenshot
+       - [ ] Create a screenshot
+       - [ ] Uploading your directory
+       - [ ] Activating your theme
+       - [ ] How to create basic WordPress content
+       - [ ] The functions.php file
+       - [ ] The &lt;head&gt; tag
+       - [ ] The header and footer
+       - [ ] The sidebar
+       - [ ] Main column &#x2013; the loop
+       - [ ] Creating template files within your theme
+       - [ ] Understanding the WordPress theme structure
+       - [ ] Breaking it up
+       - [ ] The header.php file
+       - [ ] The footer.php file
+       - [ ] The sidebar.php file
+       - [ ] Your four template files
+       - [ ] Archive template
+       - [ ] Single template
+       - [ ] Page template
+       - [ ] Generated classes for body and post
+       - [ ] Other WordPress templates
+       - [ ] Creating and using a custom page template
+       - [ ] Making your theme widget-friendly
+       - [ ] Going back to our sidebar
+       - [ ] Working with the functions.php file
+       - [ ] Adding some widgets
+       - [ ] Additional widgetizing options
+       - [ ] Enabling a menu in your theme
+       - [ ] Making your theme editable in the WordPress Customizer
+       - [ ] Creating a child theme
+       - [ ] Creating the new theme directory
+       - [ ] Creating the style sheet
+       - [ ] Using your child theme
+       - [ ] Sharing your theme
+     - [ ] Summary
+     - [ ] Social Media Integration, Podcasting, and HTTPS
+       - [ ] Integrating social media
+       - [ ] Making your blog social media friendly
+       - [ ] Setting up social media share buttons
+       - [ ] Setting up social media APIs integration
+       - [ ] Setting up automatic content distribution to social media
+       - [ ] The Jetpack plugin
+       - [ ] The Revive Old Posts plugin
+       - [ ] Setting up social media metrics tracking
+       - [ ] Podcasting
+       - [ ] Creating a podcast
+       - [ ] Recording yourself
+       - [ ] Making a post
+       - [ ] Podcasting plugins
+       - [ ] Using a service to host audio files for free
+       - [ ] HTTPS &#x2013; what, why, and how?
+       - [ ] What is HTTPS?
+       - [ ] Why HTTPS is important for a modern WordPress site
+       - [ ] How to set up HTTPS
+     - [ ] Summary
+     - [ ] Developing Plugins, Widgets, and an Introduction to REST API
+       - [ ] Plugins
+       - [ ] Building plugins from scratch
+       - [ ] Plugin code requirements
+       - [ ] A basic plugin &#x2013; adding link icons
+       - [ ] Naming and organizing the plugin files
+       - [ ] Writing the plugin's core functions
+       - [ ] Adding hooks to the plugin
+       - [ ] Trying out the plugin
+       - [ ] Adding an admin page
+       - [ ] Adding management page functions
+       - [ ] Modifying the doctype_styles_new_regex() function
+       - [ ] Adding hooks
+       - [ ] Trying out the plugin
+       - [ ] Testing your plugins
+       - [ ] A plugin with database access &#x2013; capturing searched words
+       - [ ] Getting the plugin to talk to the database
+       - [ ] Adding management page functions
+       - [ ] Trying out the plugin
+       - [ ] Building a plugin for the block-based editor
+       - [ ] Learning more
+       - [ ] Widgets
+       - [ ] Custom tag cloud widget
+       - [ ] Naming our widget
+       - [ ] The widget structure
+       - [ ] The widget initiation function
+       - [ ] The widget form function
+       - [ ] The widget save function
+       - [ ] The widget print function
+       - [ ] Custom widget styles
+       - [ ] Initiating and hooking up the widget
+       - [ ] Trying out the widget
+       - [ ] Learning more
+       - [ ] Bundling a widget with an existing plugin
+       - [ ] Shortcodes
+       - [ ] Shortcodes and the way they work
+       - [ ] Types of shortcodes
+       - [ ] Creating a simple shortcode
+       - [ ] The WordPress REST API
+       - [ ] What is the REST API?
+       - [ ] Why use WordPress REST API?
+       - [ ] How to get started with the REST API
+       - [ ] Creating a plugin that uses the REST API
+     - [ ] Summary
+     - [ ] Section 3: Non-Blog Websites
+       - [ ] Creating a Non-Blog Website Part One - The Basics
+         - [ ] The must-do tasks
+         - [ ] Static websites
+         - [ ] The process
+         - [ ] Building your home page
+         - [ ] Creating easy-to-grasp menus
+         - [ ] Corporate or business websites
+         - [ ] Picking a clean theme
+         - [ ] Branding elements
+         - [ ] Good navigation
+         - [ ] Custom home page
+         - [ ] Slider (optional)
+         - [ ] One-page websites
+         - [ ] Picking a one-page theme
+         - [ ] Branding elements
+         - [ ] High-quality images
+       - [ ] Summary
+       - [ ] Creating a Non-Blog Website Part Two - E-Commerce Websites and Custom Content Elements
+         - [ ] E-commerce stores
+         - [ ] Is WordPress a good platform for an e-commerce store?
+         - [ ] Getting a good e-commerce plugin
+         - [ ] Plugin installation and initial setup
+         - [ ] Setting up the main store pages
+         - [ ] Your store location
+         - [ ] Shipping and payments
+         - [ ] Adjusting your store design
+         - [ ] Adding products
+         - [ ] Stats &#x2013; orders, coupons, and reports
+         - [ ] Video blogs and photo blogs
+         - [ ] Exploring themes for video and photo sites
+         - [ ] Getting plugins for video and photo blogs
+         - [ ] Social networks
+         - [ ] Installing a social network
+         - [ ] Designing your social network
+         - [ ] Extending the functionality
+         - [ ] Introducing custom post types
+         - [ ] Registering a new post type
+         - [ ] Adding labels
+         - [ ] Adding messages
+         - [ ] Creating book template files
+         - [ ] Registering and using a custom taxonomy
+         - [ ] Customizing the admin display
+       - [ ] Summary
+         - [ ] Other Books You May Enjoy
+         - [ ] Leave a review - let other readers know what you think
